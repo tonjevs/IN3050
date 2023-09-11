@@ -1,1 +1,37 @@
-This is my machine learning course
+# IN3050 - Introduction to Machine Learning and Artificial Intelligence
+
+Welcome to the IN3050 - Introduction to Machine Learning and Artificial Intelligence repo repository! This repo offers a fundamental introduction to the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI). Through an algorithmic approach, students will gain a practical understanding of the methods covered, including hands-on implementation of several techniques. The repo covers supervised classification, including artificial neural networks (deep learning), as well as unsupervised learning (clustering analysis), regression, optimization (evolutionary algorithms and other search methods), reinforcement learning, experiment design, and evaluation. Additionally, students will receive an introduction to the philosophical foundations and ethical considerations related to ML/AI, along with an overview of the field's historical development.
+
+## Repo Overview
+
+In this repo, you will embark on an exciting journey into the realms of Machine Learning and Artificial Intelligence, gaining valuable insights into the following areas:
+
+### What You Will Learn
+
+- **Key ML and AI Methods:** Acquire insight into essential methods used in Machine Learning and Artificial Intelligence, enabling you to understand and apply them effectively.
+
+- **Historical Development:** Explore the historical development of the field, gaining knowledge of how ML and AI have evolved over time.
+
+- **Experiment Design and Evaluation:** Learn how to design and conduct experiments using the methods covered, with a strong emphasis on the evaluation of results.
+
+- **Method Selection:** Develop the ability to evaluate the advantages and disadvantages of choosing specific ML/AI methods for various applications.
+
+- **Algorithm Implementation:** Gain hands-on experience by implementing algorithms for selected methods, reinforcing your understanding through practical implementation.
+
+- **Philosophical and Ethical Considerations:** Delve into fundamental philosophical and ethical questions related to the development and application of ML/AI technologies.
+
+### Learning Outcomes
+
+Upon completing this repo, you will have:
+
+- **Insight into Central ML and AI Methods:** A solid understanding of core methods in Machine Learning and Artificial Intelligence.
+
+- **Historical Knowledge:** Awareness of the historical development and evolution of the ML/AI field.
+
+- **Experimental Proficiency:** The ability to design and conduct experiments using ML/AI methods, with a focus on thorough evaluation.
+
+- **Method Evaluation Skills:** The capacity to assess the suitability of ML/AI methods for various practical applications.
+
+- **Algorithm Implementation Experience:** Practical experience in implementing algorithms for selected ML/AI methods.
+
+- **Ethical Awareness:** An introduction to fundamental philosophical and ethical considerations surrounding ML/AI development and utilization.
